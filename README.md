@@ -1,2 +1,2 @@
-# udacity-dlnd-project1-predictbikes
-1st project for deep learning nanodegree for predicting bike sharing rides
+# DLND Project 1 : Predicting Bike Sharing Rides
+1st project for Deep Learning Nanodegree for predicting bike sharing rides
